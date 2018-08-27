@@ -27,7 +27,7 @@ final public class HTMLAttachmentRenderer {
 }
 
 
-// MARK: - TextViewCommentsDelegate Methods
+// MARK: - TextViewAttachmentImageProvider
 //
 extension HTMLAttachmentRenderer: TextViewAttachmentImageProvider {
 
